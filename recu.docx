@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+</head>
+<body>
+
+
+	<div>
+		<table>
+			<tr>
+				<td>
+					<div style="line-height: 10px;">
+						<p><span style="font-weight: bold;">Compte : </span>0246205822</p>
+						<p><span style="font-weight: bold; text-decoration: underline; font-size: 20px;">Expéditeur</span></p>
+						<p>www</p>
+						<p>HOUNMADJAI</p>
+						<p>jjdjd</p>
+						<p><span style="font-weight: bold;">Contact : </span>Cedric Léger Junior HOUNMADJAI</p>
+						<p><span style="font-weight: bold;">Tel : </span>0222222222</p>
+					</div>
+				</td>
+				<td>
+					<div style="line-height: 10px; text-align: center;">
+						<img width="300" height="" src="qr.jfif">
+						<p style="margin-top: 3px;">AC584623202202</p>
+
+						<p style="border: 1px dotted black;padding: 10px;"><span style="font-weight: bold;">Numéro de suivi du produit : </span>AC584623202202</p>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td style="line-height: 10px;">
+					<p><span style="font-weight: bold; text-decoration: underline; font-size: 20px;">Adresse du destinataire</span></p>
+					<p>HOUNMADJAI</p>
+					<p>benin</p>
+					<p><span style="font-weight: bold;">Contact : </span>Cedric Léger Junior HOUNMADJAI</p>
+					<p><span style="font-weight: bold;">Tel : </span>0222222222</p>
+				</td>
+				<td style="line-height: 10px;">
+					<p><span style="font-weight: bold;">Jour de livraison : </span>22 / 02 / 23</p>
+					<p><span style="font-weight: bold;">Description du produit </span></p>
+					<p>ddd</p>
+				</td>
+			</tr>
+			<tr>
+				<td style="border-right: none;">Instructions de livraison spéciales : </td>
+				<td style="border-left: none;"></td>
+			</tr>
+
+			<tr>
+				<td style="border: none;">
+					<span style="font-weight: bold;">Options et services : </span><br>Express
+				</td>
+				<td style="text-align: center;font-size: 25px; font-weight: bold;">
+					--
+				</td>
+			</tr>
+		</table>
+	</div>
+	
+<a href="recu.php" download="recu.docx">telecharger la page</a>
+</body>
+</html>
+
+<style type="text/css">
+	table{
+		border-collapse: collapse;
+		border: 1px solid black;
+		margin: auto;
+		
+	}
+	td,tr{
+		border: 1px solid black;
+	}
+	td{
+		padding: 10px;
+	}
+</style>
